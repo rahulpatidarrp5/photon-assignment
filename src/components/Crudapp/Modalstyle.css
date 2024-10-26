@@ -1,0 +1,33 @@
+.modal-content{
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.modal-title{
+ font-weight: bold;
+ margin-bottom: 15px;
+ color: #343a;
+}
+.modal-footer{
+display: flex;
+justify-content: flex-end;
+}
+
+.modal-body{
+padding: 20px;
+}
+
+.modal-header{
+    border-bottom: none;
+}
+
+.modal-title-left{
+    flex: 1;
+    text-align: left;
+}
+.post-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
